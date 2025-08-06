@@ -47,7 +47,7 @@ If you want to unlock more content and enjoy a smoother experience, consider upg
 » <b>1 Month</b> — 60 INR  
 » Daily limit: <b>{prime_limit}</b> files
 
-<a href='https://techifybots.github.io/PayWeb'>📷 Click here to scan QR and pay</a>
+<a href='https://i.ibb.co/dwZK15q3/photo-2025-08-06-15-56-13-7535502004659945488.jpg'>📷 Click here to scan QR and pay</a>
 
 <blockquote>
 <b>Note:</b> Once a plan is selected, it cannot be changed.  
